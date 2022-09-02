@@ -40,7 +40,6 @@
 .logo_place_header {
   position: absolute;
   top: 30px;
-  left: 64px;
   z-index: 1;
 }
 
@@ -49,7 +48,6 @@
   line-height: 94px;
   font-size: 102px;
   font-weight: 600;
-  left: 64px;
   z-index: 3;
 }
 

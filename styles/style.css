@@ -19,23 +19,6 @@
 .page__header {
   margin-bottom: 100px;
 }
-.page__description{
-  margin-bottom: 100px;
-}
-.page__digits{
-  margin-bottom: 100px;
-}
-
-.digits__section-title {
-  margin-bottom: 20px;
-}
-.kaufman__section-title{
-  margin-top: 90px;
-  margin-bottom: 20px;
-}
-.kaufman__table{
-  margin-bottom: 90px;
-}
 
 .header {
   height: 100vh;
@@ -107,6 +90,10 @@
   background-color: #2f80ed;
 }
 
+.page__description {
+  margin-bottom: 100px;
+}
+
 .description {
   padding: 0 100px;
 }
@@ -147,12 +134,20 @@
   font-weight: 600;
 }
 
+.page__digits {
+  margin-bottom: 100px;
+}
+
 .digits {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: auto;
+}
+
+.digits__section-title {
+  margin-bottom: 20px;
 }
 
 .section-title {
@@ -264,6 +259,16 @@
   overflow: hidden;
 }
 
+
+.kaufman__section-title {
+  margin-top: 90px;
+  margin-bottom: 20px;
+}
+
+.kaufman__table {
+  margin-bottom: 90px;
+}
+
 .section-title_theme_dark {
   color: white;
 }
@@ -352,8 +357,7 @@
   margin-right: auto;
 }
 
-.footer__column_content_social {
-}
+.footer__column_content_social {}
 
 .footer__column-heading {
   color: white;
@@ -375,11 +379,9 @@
   text-decoration: none;
 }
 
-.footer__link_nav {
-}
+.footer__link_nav {}
 
-.footer__link_social {
-}
+.footer__link_social {}
 
 .footer__social-icon {
   margin: 0 10px 0 0;

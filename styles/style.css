@@ -32,15 +32,6 @@
   margin-top: 90px;
 }
 
-.link {
-  color: #2f80ed;
-}
-
-.link::after {
-  content: "→";
-  color: #2f80ed;
-}
-
 .header {
   height: 100vh;
   min-height: 600px;
@@ -83,9 +74,16 @@
   font-weight: normal;
   z-index: 2;
 }
-.header__link{
 
+.header__link {
+  color: #2f80ed;
 }
+
+.header__link::after {
+  content: " →";
+  color: #2f80ed;
+}
+
 .header__main-illustration {
   position: absolute;
   bottom: 0;
@@ -232,7 +230,14 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  color: #2f80ed;
 }
+
+.feynman__link::after {
+  content: " →";
+  color: #2f80ed;
+}
+
 
 .feynman__main_-illustration {
   position: absolute;

@@ -16,20 +16,25 @@
   padding: 0;
 }
 
-.margin_bottom_100 {
+.page__header {
+  margin-bottom: 100px;
+}
+.page__description{
+  margin-bottom: 100px;
+}
+.page__digits{
   margin-bottom: 100px;
 }
 
-.margin_bottom_90 {
-  margin-bottom: 90px;
-}
-
-.margin_bottom_20 {
+.digits__section-title {
   margin-bottom: 20px;
 }
-
-.margin_top_90 {
+.kaufman__section-title{
   margin-top: 90px;
+  margin-bottom: 20px;
+}
+.kaufman__table{
+  margin-bottom: 90px;
 }
 
 .header {

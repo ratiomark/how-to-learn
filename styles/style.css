@@ -26,7 +26,6 @@
   align-items: center;
   padding-left: 64px;
   overflow: hidden;
-  ;
 }
 
 .logo {
@@ -290,10 +289,6 @@
   z-index: 0;
 }
 
-
-
-
-
 .footer {
   position: relative;
   background-color: #1f1f1f;
@@ -329,7 +324,6 @@
   font-weight: normal;
   padding: 18px 0;
 }
-
 
 .footer__column_content_info {
   display: flex;

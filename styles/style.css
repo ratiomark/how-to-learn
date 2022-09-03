@@ -300,8 +300,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  flex-basis: 711px;
-  width: 90%;
+  width: 90%;ё
   margin: 0 auto;
 }
 
@@ -310,8 +309,8 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  flex-grow: 3;
-}
+  flex-basis: 711px;
+}ё
 
 .logo_place_footer {
   align-self: flex-start;
@@ -331,8 +330,7 @@
   justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 16px;
-  flex-grow: 1;
-}
+}ё
 
 .footer__column_content_social {
   display: flex;
@@ -340,8 +338,7 @@
   justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 16px;
-  flex-grow: 0;
-}
+}ё
 
 .footer__column-heading {
   color: white;

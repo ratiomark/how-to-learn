@@ -300,7 +300,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 90%;ё
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -310,7 +310,7 @@
   justify-content: space-between;
   align-items: flex-start;
   flex-basis: 711px;
-}ё
+}
 
 .logo_place_footer {
   align-self: flex-start;
@@ -330,7 +330,7 @@
   justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 16px;
-}ё
+}
 
 .footer__column_content_social {
   display: flex;
@@ -338,7 +338,7 @@
   justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 16px;
-}ё
+}
 
 .footer__column-heading {
   color: white;

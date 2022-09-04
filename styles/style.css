@@ -320,11 +320,14 @@
   margin: 0 auto;
 }
 
-.footer__column_content_copyright {
+.footer__column {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
+}
+
+.footer__column_content_copyright {
   flex-basis: 711px;
 }
 
@@ -338,18 +341,10 @@
 }
 
 .footer__column_content_info {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: flex-start;
   padding-bottom: 16px;
 }
 
 .footer__column_content_social {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: flex-start;
   padding-bottom: 16px;
 }
 

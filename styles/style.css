@@ -113,7 +113,7 @@
   margin: 0;
 }
 
-.two-columns__main_text {
+.two-columns__main-text {
   display: flex;
   flex-direction: column;
   width: 80%;
@@ -249,7 +249,7 @@
   z-index: 1;
 }
 
-.feynman__main_-illustration {
+.feynman__main-illustration {
   position: absolute;
   left: 0;
   bottom: 0;

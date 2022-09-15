@@ -16,3 +16,6 @@
   text-decoration: none;
   z-index: 1;
 }
+.feynman__link:hover{
+  text-decoration: underline;;
+}
